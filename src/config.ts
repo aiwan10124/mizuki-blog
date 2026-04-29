@@ -26,7 +26,7 @@ const SITE_TIMEZONE = 8; //设置你的网站时区 from -12 to 12 default in UT
 export const siteConfig: SiteConfig = {
 	title: "༺爱玩༻的小屋",
 	subtitle: "欢迎光临？",
-	siteURL: "https://aiwan.dpdns.org/", // 请替换为你的站点URL，以斜杠结尾
+	siteURL: "https://bolg.aiwan.dpdns.org/", // 请替换为你的站点URL，以斜杠结尾
 	siteStartDate: "2026-04-26", // 站点开始运行日期，用于站点统计组件计算运行天数
 
 	timeZone: SITE_TIMEZONE,
@@ -59,7 +59,7 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.webp
 		icon: "assets/home/home.webp",
 		// 网站Logo图片路径
-		logo: "assets/home/ceshi.webp",
+		logo: "assets/home/logo.webp",
 	},
 
 	// 页面自动缩放配置
@@ -411,10 +411,10 @@ export const expressiveCodeConfig: ExpressiveCodeConfig = {
 };
 
 export const commentConfig: CommentConfig = {
-	enable: false, // 启用评论功能。当设置为 false 时，评论组件将不会显示在文章区域。
+	enable: true, // 启用评论功能。当设置为 false 时，评论组件将不会显示在文章区域。
 	system: "twikoo", // 评论系统选择: "twikoo" | "giscus"
 	twikoo: {
-		envId: "https://twikoo.vercel.app",
+		envId: "https://aiwantwikoo.dpdns.org/",
 		lang: SITE_LANG,
 	},
 	giscus: {
@@ -642,7 +642,7 @@ export const pioConfig: import("./types/config").PioConfig = {
 	width: 280, // 默认宽度
 	height: 250, // 默认高度
 	mode: "fixed", // 默认为可拖拽模式
-	hiddenOnMobile: true, // 默认在移动设备上隐藏
+	hiddenOnMobile: false, // 默认在移动设备上隐藏
 	dialog: {
 		welcome: "欢迎访问༺爱玩༻的小屋", // 欢迎词
 		touch: [
