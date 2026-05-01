@@ -1,20 +1,20 @@
 ---
 title: win10仿win11
 published: 2024-11-16
-pinned: true
+pinned: false
 description: win10如何仿win11
 tags: [主题, win10仿win11]
 category: 主题
 author: aiwan10124
 draft: false
 date: 2024-11-16
-image: "./win10.jpg"
+image: "win10.jpg"
 pubDate: 2025-01-20
 ---
 
 视频教程：[b站链接](https://www.bilibili.com/video/BV1jEUYYSEUK/)
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113491323127703&bvid=BV1jEUYYSEUK&cid=26786660755&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="475"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113491323127703&bvid=BV1jEUYYSEUK&cid=26786660755&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="468"></iframe>
 
 
 
