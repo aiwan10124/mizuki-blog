@@ -1,7 +1,7 @@
 ---
 title: vmware显示测通道缓解
 published: 2025-07-08
-pinned: true
+pinned: false
 description: vmware显示测通道缓解怎么办？
 tags: [教程, vmware]
 category: vmware
