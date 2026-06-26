@@ -20,7 +20,7 @@ pubDate: 2026-05-04
 
 ## 1.视频中所需要文件的下载链接
 
-### 1.[123云盘win11仿win10.zip](https://1826803333.share.123865.com/123pan/Ljhrjv-vRso) 2.[旧版组件](https://win7games.com/)
+### 1.[123云盘win11仿win10.zip](https://1855249930.share.123pan.cn/123pan/VxGCvd-SSMAh) 2.[旧版组件](https://win7games.com/)
 
 ## 2.替换系统图标
 

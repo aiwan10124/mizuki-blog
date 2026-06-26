@@ -20,7 +20,7 @@ pubDate: 2025-01-20
 
 # 1.首先你下载需要这些文件。
 
-### 1.[123网盘](https://www.123865.com/s/Ljhrjv-xE0Q) 2.[huang111网盘](https://pan.huang1111.cn/s/MN1m1Tx)
+### 1.[123网盘](https://1855249930.share.123pan.cn/123pan/VxGCvd-wWnAh) 2.[huang111网盘](https://pan.huang1111.cn/s/MN1m1Tx)
 
 # 2.换开机音乐和开机图标
 
